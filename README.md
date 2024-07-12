@@ -32,7 +32,6 @@ This will compile the source files and generate the necessary library files.
 ### Using the Library in Your Code
 To use the ft_printf function in your own C programs, include the library's header file in your source code as shown below
 
-     ```sh
        #include "ft_printf.h"
 
  You can now call ft_printf just like the standard printf function.
