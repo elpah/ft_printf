@@ -39,12 +39,12 @@ To use the ft_printf function in your own C programs, include the library's head
 ### Supported Conversions
 The ft_printf function supports a subset of the standard printf format specifiers. Here is a list of the supported conversions:
 
-%c: Prints a single character.
-%s: Prints a string of characters.
-%p: Prints a pointer address in hexadecimal format.
-%d: Prints a signed decimal integer.
-%i: Prints a signed decimal integer.
-%u: Prints an unsigned decimal integer.
-%x: Prints a number in lowercase hexadecimal format.
-%X: Prints a number in uppercase hexadecimal format.
-%%: Prints a percent sign.
+- %c: Prints a single character.
+- %s: Prints a string of characters.
+- %p: Prints a pointer address in hexadecimal format.
+- %d: Prints a signed decimal integer.
+- %i: Prints a signed decimal integer.
+- %u: Prints an unsigned decimal integer.
+- %x: Prints a number in lowercase hexadecimal format.
+- %X: Prints a number in uppercase hexadecimal format.
+- %%: Prints a percent sign.
