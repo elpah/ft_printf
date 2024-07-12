@@ -6,11 +6,12 @@
 /*   By: elpah <elpah@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/13 00:57:00 by elpah             #+#    #+#             */
-/*   Updated: 2024/07/13 00:57:13 by elpah            ###   ########.fr       */
+/*   Updated: 2024/07/13 00:57:48 by elpah            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_PRINTF_H #define FT_PRINTF_H
+#ifndef FT_PRINTF_H
+#define FT_PRINTF_H
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
